@@ -6,3 +6,6 @@
 
 
 [![stermak's GitHub stats](https://github-readme-stats.vercel.app/api?username=stermak)](https://github.com/stermak/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stermak&layout=compact)](https://github.com/stermak/github-readme-stats)
