@@ -45,4 +45,5 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=stermak&theme=one-dark-pro&layout=compact" alt="GitHub Streak Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stermak&theme=solarized_dark">
 </p>
