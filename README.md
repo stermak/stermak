@@ -24,7 +24,6 @@
   <a href="https://www.w3schools.com/kotlin/" target="_blank"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/python.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/android.svg" alt="android" width="60" height="40"/> </a>
 </p>
 
 <p align="center">
