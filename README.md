@@ -8,7 +8,7 @@
 <p align="center">
   🌱 В настоящее время изучаю: <strong>Docker, k8s, Grafana, Zabbix, Prometheus, Android Dev, Kotlin, Spring</strong><br>
   ⛏ В настоящее время работаю: <strong>DevOps в Сбербанк</strong><br>
-  📫 Как со мной связаться: <strong>ermakovas174@gmail.com или t.me/mirea_host</strong><br>
+  📫 Как со мной связаться: <strong>ermakovas174@gmail.com или <a href="https://t.me/mirea_host">Telegram</a></strong><br>
   🌍 Я говорю на русском (родной), английском (B2)
 </p>
 
