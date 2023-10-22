@@ -1,13 +1,14 @@
 <h1 align="center">Привет, я <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">St.Ermak</a> 👋</h1>
-<h3 align="center">Студент компьютерных наук и разработчик Android</h3>
+<h3 align="center">Студент компьютерных наук, DevOps Engineer и разработчик Android</h3>
 
 <p align="center">
   <a href="https://www.codewars.com/users/stermak"><img src="https://www.codewars.com/users/stermak/badges/small"></a>
 </p>
 
 <p align="center">
-  🌱 В настоящее время изучаю: <strong>Android Dev, Kotlin, Spring</strong><br>
-  📫 Как со мной связаться: <strong>ermakovas174@gmail.com</strong><br>
+  🌱 В настоящее время изучаю: <strong>Docker, k8s, Grafana, Zabbix, Prometheus, Android Dev, Kotlin, Spring</strong><br>
+  ⛏ В настоящее время работаю: <strong>DevOps в Сбербанк</strong><br>
+  📫 Как со мной связаться: <strong>ermakovas174@gmail.com или t.me/mirea_host</strong><br>
   🌍 Я говорю на русском (родной), английском (B2)
 </p>
 
@@ -28,6 +29,11 @@
 
 <p align="center">
   <strong>Инструменты:</strong><br>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/docker-original.svg" alt="studio" width="40" height="40"/> </a>
+<a href="https://ru.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/linux-original.svg" alt="studio" width="40" height="40"/> </a> 
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/grafana-original.svg" alt="studio" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io/ru/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/kubernetes-plain.svg" alt="studio" width="40" height="40"/> </a> 
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/prometheus-original.svg" alt="studio" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/androidstudio.svg" alt="studio" width="40" height="40"/> </a> 
 <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/Bash.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
