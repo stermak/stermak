@@ -14,8 +14,8 @@
 
 <p align="center">
   <strong>Связь со мной:</strong><br>
-  <a href="https://t.me/zve_zhong"><img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/Telegram.svg" alt="Telegram" height="40" width="40"></a>
-  <a href="https://vk.com/mirea_host"><img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/vk.svg" alt="VK" height="40" width="40"></a>
+  <a href="https://t.me/sber_host"><img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/Telegram.svg" alt="Telegram" height="40" width="40"></a>
+  <a href="https://vk.com/sber_host"><img src="https://raw.githubusercontent.com/stermak/stermak/main/icons/vk.svg" alt="VK" height="40" width="40"></a>
 </p>
 
 <p align="center">
